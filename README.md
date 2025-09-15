@@ -59,9 +59,7 @@ This end-to-end project demonstrates data cleaning, feature engineering, model t
 | LightGBM  | 6.91          | 55.71          |
 | XGBoost   | 7.04          | 60.32          |
 
-**Feature Importance (XGBoost Example):**
 
-![Feature Importance](outputs/feature_importance.png)
 
 ---
 
